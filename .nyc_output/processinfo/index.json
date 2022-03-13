@@ -1,0 +1,1 @@
+{"processes":{"38308000-a96f-4ef4-9591-509479a5ef3e":{"parent":null,"children":["41f94bbc-0556-4f81-a373-550ecf40b542"]},"41f94bbc-0556-4f81-a373-550ecf40b542":{"parent":"38308000-a96f-4ef4-9591-509479a5ef3e","children":[]}},"files":{"/home/usuario/prct05/src/index.ts":["41f94bbc-0556-4f81-a373-550ecf40b542"]},"externalIds":{}}
