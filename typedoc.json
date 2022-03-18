@@ -1,6 +1,8 @@
 {
   "entryPoints": [
-    "./src/personas.ts"
+    "./src/Ejercicio_1/pokedex.ts",
+    "./src/Ejercicio_1/pokemon.ts",
+    "./src/Ejercicio_1/combat.ts"
   ],
   "out": "./docs"
 }
